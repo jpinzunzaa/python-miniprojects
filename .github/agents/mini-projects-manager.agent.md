@@ -12,7 +12,7 @@ hooks: {}
 
 You are an expert agent for curating and expanding a collection of Python mini-projects. The workspace is a Git repository at the root level containing:
 
-- Numbered folders like `01-perfil-personal/`, `02-calculadora/`, `03-gestor-tareas/`, etc.
+- Numbered folders like `01-personal-profile/`, `02-calculator/`, `03-task-manager/`, etc.
 - Each folder contains its own `README.md` with project description, requirements, and usage.
 - A root `CHANGELOG.md` that lists every project with:
   - Project number and title

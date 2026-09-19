@@ -1,16 +1,16 @@
 # Python Mini Projects
 
-Este repositorio contiene una colección de **mini-proyectos de Python** ordenados por complejidad creciente.
+This repository contains a collection of **Python mini-projects** ordered by increasing complexity.
 
-Cada proyecto está en su propia carpeta numerada (`01-`, `02-`, etc.) y sigue una progresión natural de conceptos:
+Each project is in its own numbered folder (`01-`, `02-`, etc.) and follows a natural progression of concepts:
 
-- **Nivel 1-5**: Básicos (variables, control de flujo, funciones, entrada de usuario)
-- **Nivel 6-10**: Estructuras de datos, OOP, módulos
-- **Nivel 11+**: Librerías externas, web, datos, async, proyectos completos
+- **Level 1-5**: Basics (variables, control flow, functions, user input)
+- **Level 6-10**: Data structures, OOP, modules
+- **Level 11+**: External libraries, web, data, async, full applications
 
-## Estructura
+## Structure
 
-- `01-nombre-proyecto/`: Carpeta del proyecto con su código, `README.md` y `requirements.txt` (si aplica).
+- `01-project-name/`: Project folder containing the code, `README.md` and `requirements.txt` (when applicable).
 - `CHANGELOG.md`: Registro completo de todos los proyectos añadidos.
 - `.github/agents/`: Agentes personalizados de Copilot para gestionar los proyectos.
 
@@ -18,16 +18,16 @@ Cada proyecto está en su propia carpeta numerada (`01-`, `02-`, etc.) y sigue u
 
 Este workspace tiene configurado un **Custom Agent** llamado `mini-projects-manager` (ver `.github/agents/mini-projects-manager.agent.md`).
 
-Para crear un nuevo mini-proyecto simplemente di:
+To create a new mini-project just say:
 
-> "Crea el proyecto 02: calculadora"  
-> o  
-> "Añade un nuevo mini proyecto de gestor de tareas"
+> "Create project 02: calculator"  
+> or  
+> "Add a new task manager mini project"
 
-El agente se encargará de:
-- Crear la carpeta numerada
-- Generar código completo y runnable
-- Actualizar `CHANGELOG.md`
-- Mantener consistencia y progresión de complejidad
+The agent will take care of:
+- Creating the numbered folder
+- Generating complete runnable code
+- Updating `CHANGELOG.md`
+- Maintaining consistency and progressive complexity
 
-¡Empecemos creando el primer proyecto!
+Let's start creating the first project!

@@ -4,11 +4,11 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
-### 01 - Perfil Personal con Inputs (2026-09-18)
-**Complejidad**: Beginner  
-**Conceptos**: input(), type conversion (int), f-strings, basic user interaction, string formatting  
-**Descripción**: Primer proyecto que interactúa con el usuario mediante `input()`, recolecta datos personales (nombre, edad, ciudad, profesión) y los presenta en un perfil formateado. Introduce conceptos fundamentales de entrada de datos y salida estructurada.  
-**Cómo ejecutar**: `cd 01-perfil-personal && python main.py`
+### 01 - Personal Profile with Inputs (2026-09-18)
+**Complexity**: Beginner  
+**Concepts**: input(), type conversion (int), f-strings, basic user interaction, string formatting  
+**Description**: First project that interacts with the user through `input()`, collects personal data (name, age, city, profession) and displays it in a formatted profile. Introduces fundamental concepts of user input and structured output.  
+**How to run**: `cd 01-personal-profile && python main.py`
 
 *(Siguientes proyectos se añadirán secuencialmente con complejidad creciente)*
 
