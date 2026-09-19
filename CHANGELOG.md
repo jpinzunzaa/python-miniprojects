@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 02 - Birth Year Calculator (2026-09-19)
+**Complexity**: Beginner  
+**Concepts**: datetime module, arithmetic calculations, input validation, standard library usage  
+**Description**: Calculates the approximate birth year using the current year from `datetime.now()` and the user's age. Builds on user input concepts with date handling and basic math.
+**How to run**: `cd 02-birth-year-calculator && python main.py`
+
 ### 01 - Personal Profile with Inputs (2026-09-18)
 **Complexity**: Beginner  
 **Concepts**: input(), type conversion (int), f-strings, basic user interaction, string formatting  
@@ -14,5 +20,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 1  
-**Última actualización**: 2026-09-18
+**Total proyectos**: 2  
+**Última actualización**: 2026-09-19

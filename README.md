@@ -30,4 +30,8 @@ The agent will take care of:
 - Updating `CHANGELOG.md`
 - Maintaining consistency and progressive complexity
 
-Let's start creating the first project!
+Current projects:
+- 01: Personal Profile with Inputs
+- 02: Birth Year Calculator
+
+Let's continue with the next project!
