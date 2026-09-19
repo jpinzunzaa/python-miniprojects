@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 03 - Personal Profile v2 (2026-09-19)
+**Complexity**: Beginner  
+**Concepts**: datetime calculations, future projections, ASCII art formatting, multiple inputs, code organization  
+**Description**: Enhanced personal profile that collects more data, calculates birth year and future age, and displays everything in a professional ASCII box. Combines concepts from previous projects with better presentation.
+**How to run**: `cd 03-personal-profile-v2 && python main.py`
+
 ### 02 - Birth Year Calculator (2026-09-19)
 **Complexity**: Beginner  
 **Concepts**: datetime module, arithmetic calculations, input validation, standard library usage  
@@ -20,5 +26,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 2  
+**Total proyectos**: 3  
 **Última actualización**: 2026-09-19
