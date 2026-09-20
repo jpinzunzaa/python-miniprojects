@@ -9,6 +9,7 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 **Concepts**: functions as first-class citizens, menu-driven loops, error handling (division by zero), dispatch dictionary, input validation  
 **Description**: Full-featured calculator with menu, loop until exit, four arithmetic operations, and robust protection against division by zero. First project to introduce control flow with while loops and function dispatching.
 **How to run**: `cd 04-interactive-calculator && python main.py`
+**Note**: Commits made using jpinzunzaa identity and token.
 
 ### 03 - Personal Profile v2 (2026-09-19)
 **Complexity**: Beginner  
