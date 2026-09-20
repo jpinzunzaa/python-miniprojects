@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 04 - Interactive Calculator (2026-09-20)
+**Complexity**: Intermediate  
+**Concepts**: functions as first-class citizens, menu-driven loops, error handling (division by zero), dispatch dictionary, input validation  
+**Description**: Full-featured calculator with menu, loop until exit, four arithmetic operations, and robust protection against division by zero. First project to introduce control flow with while loops and function dispatching.
+**How to run**: `cd 04-interactive-calculator && python main.py`
+
 ### 03 - Personal Profile v2 (2026-09-19)
 **Complexity**: Beginner  
 **Concepts**: datetime calculations, future projections, ASCII art formatting, multiple inputs, code organization  
@@ -26,5 +32,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 3  
-**Última actualización**: 2026-09-19
+**Total proyectos**: 4  
+**Última actualización**: 2026-09-20
