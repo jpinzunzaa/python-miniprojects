@@ -35,5 +35,9 @@ Current projects:
 - 02: Birth Year Calculator
 - 03: Personal Profile v2 (with calculations and ASCII box)
 - 04: Interactive Calculator (menu + loop + error handling)
+- 05: Universal Converter (temperature, distance, weight)
+- 03: Personal Profile v2 (with calculations and ASCII box)
+- 04: Interactive Calculator (menu + loop + error handling)
+- 05: Universal Converter (temperature, distance, weight)
 
 Let's continue with the next project!

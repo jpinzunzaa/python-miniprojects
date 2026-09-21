@@ -33,5 +33,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 4  
-**Última actualización**: 2026-09-20
+**Total proyectos**: 5  
+**Última actualización**: 2026-09-21
