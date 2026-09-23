@@ -4,6 +4,18 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 06 - Number Guessing Game (2026-09-22)
+**Complexity**: Intermediate  
+**Concepts**: random module, game loops with limited attempts, state management, win/lose conditions, replay functionality  
+**Description**: Classic "Guess the Number" game with random secret number, 7 attempts, progressive hints (higher/lower), attempt counter, and support for multiple rounds. Introduces randomness and game mechanics.
+**How to run**: `cd 06-number-guessing-game && python main.py`
+
+### 05 - Universal Converter (2026-09-21)
+**Complexity**: Intermediate  
+**Concepts**: multiple conversion categories, bidirectional functions, menu systems, dictionary dispatch, comprehensive input handling  
+**Description**: Universal unit converter supporting temperature, distance and weight with bidirectional conversions, clean menu interface, and robust validation. Combines and expands concepts from previous calculator and profile projects.
+**How to run**: `cd 05-universal-converter && python main.py`
+
 ### 04 - Interactive Calculator (2026-09-20)
 **Complexity**: Intermediate  
 **Concepts**: functions as first-class citizens, menu-driven loops, error handling (division by zero), dispatch dictionary, input validation  
@@ -33,5 +45,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 5  
-**Última actualización**: 2026-09-21
+**Total proyectos**: 6  
+**Última actualización**: 2026-09-22

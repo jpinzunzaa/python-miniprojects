@@ -36,8 +36,6 @@ Current projects:
 - 03: Personal Profile v2 (with calculations and ASCII box)
 - 04: Interactive Calculator (menu + loop + error handling)
 - 05: Universal Converter (temperature, distance, weight)
-- 03: Personal Profile v2 (with calculations and ASCII box)
-- 04: Interactive Calculator (menu + loop + error handling)
-- 05: Universal Converter (temperature, distance, weight)
+- 06: Number Guessing Game (with limited attempts and hints)
 
 Let's continue with the next project!
