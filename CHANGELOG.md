@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 07 - Rock Paper Scissors (2026-09-24)
+**Complexity**: Intermediate  
+**Concepts**: game logic, win condition evaluation, score tracking across rounds, input validation, replay loop  
+**Description**: Classic Rock-Paper-Scissors game against the computer. First to 3 wins. Includes score tracking, clear feedback, and robust input validation. Builds on previous game mechanics with competitive scoring.
+**How to run**: `cd 07-rock-paper-scissors && python main.py`
+
 ### 06 - Number Guessing Game (2026-09-22)
 **Complexity**: Intermediate  
 **Concepts**: random module, game loops with limited attempts, state management, win/lose conditions, replay functionality  
@@ -45,5 +51,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 6  
-**Última actualización**: 2026-09-22
+**Total proyectos**: 7  
+**Última actualización**: 2026-09-24
