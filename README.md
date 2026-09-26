@@ -38,5 +38,6 @@ Current projects:
 - 05: Universal Converter (temperature, distance, weight)
 - 06: Number Guessing Game (with limited attempts and hints)
 - 07: Rock Paper Scissors (first to 3 wins)
+- 08: Password Generator (secure random passwords)
 
 Let's continue with the next project!

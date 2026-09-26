@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 08 - Password Generator (2026-09-26)
+**Complexity**: Intermediate  
+**Concepts**: secrets module for cryptographic randomness, string constants, input validation with minimum requirements, secure password generation  
+**Description**: Professional password generator using cryptographically secure randomness (`secrets`). Allows user to specify length and generates strong passwords with letters, digits and symbols. Introduces security best practices.
+**How to run**: `cd 08-password-generator && python main.py`
+
 ### 07 - Rock Paper Scissors (2026-09-24)
 **Complexity**: Intermediate  
 **Concepts**: game logic, win condition evaluation, score tracking across rounds, input validation, replay loop  
@@ -51,5 +57,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 7  
-**Última actualización**: 2026-09-24
+**Total proyectos**: 8  
+**Última actualización**: 2026-09-26
