@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 09 - Personal Finance Tracker (2026-09-28)
+**Complexity**: Intermediate  
+**Concepts**: lists of dictionaries, data aggregation by category, menu-driven CRUD, summary statistics with percentages  
+**Description**: Complete personal expense tracker with add, view, and summary features. Uses dictionaries to store structured data and provides category breakdown with totals and percentages. First major data management project.
+**How to run**: `cd 09-personal-finance-tracker && python main.py`
+
 ### 08 - Password Generator (2026-09-26)
 **Complexity**: Intermediate  
 **Concepts**: secrets module for cryptographic randomness, string constants, input validation with minimum requirements, secure password generation  
@@ -57,5 +63,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 8  
-**Última actualización**: 2026-09-26
+**Total proyectos**: 9  
+**Última actualización**: 2026-09-28

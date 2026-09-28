@@ -39,5 +39,6 @@ Current projects:
 - 06: Number Guessing Game (with limited attempts and hints)
 - 07: Rock Paper Scissors (first to 3 wins)
 - 08: Password Generator (secure random passwords)
+- 09: Personal Finance Tracker (expenses + category summary)
 
 Let's continue with the next project!
