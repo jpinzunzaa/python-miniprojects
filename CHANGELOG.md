@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 10 - Contact Manager (2026-09-28)
+**Complexity**: Intermediate  
+**Concepts**: full CRUD operations, search in list of dictionaries, updating mutable records, menu-driven application  
+**Description**: Complete contact book with add, list, search, update and delete functionality. Implements a full CRUD system with clean menu interface and helper functions. Major step in data management applications.
+**How to run**: `cd 10-contact-manager && python main.py`
+
 ### 09 - Personal Finance Tracker (2026-09-28)
 **Complexity**: Intermediate  
 **Concepts**: lists of dictionaries, data aggregation by category, menu-driven CRUD, summary statistics with percentages  
@@ -63,5 +69,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 9  
+**Total proyectos**: 10  
 **Última actualización**: 2026-09-28

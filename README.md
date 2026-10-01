@@ -40,5 +40,6 @@ Current projects:
 - 07: Rock Paper Scissors (first to 3 wins)
 - 08: Password Generator (secure random passwords)
 - 09: Personal Finance Tracker (expenses + category summary)
+- 10: Contact Manager (full CRUD)
 
 Let's continue with the next project!
