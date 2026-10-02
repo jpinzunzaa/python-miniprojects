@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 11 - File Organizer (2026-10-02)
+**Complexity**: Intermediate  
+**Concepts**: pathlib for file system operations, automatic file categorization by extension, safe file moving, practical automation  
+**Description**: Automatic file organizer that scans a folder and moves files into categorized subfolders (images, documents, videos, audio, others). Uses modern pathlib and provides clear feedback.
+**How to run**: `cd 11-file-organizer && python main.py`
+
 ### 10 - Contact Manager (2026-09-28)
 **Complexity**: Intermediate  
 **Concepts**: full CRUD operations, search in list of dictionaries, updating mutable records, menu-driven application  
@@ -69,5 +75,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 10  
-**Última actualización**: 2026-09-28
+**Total proyectos**: 11  
+**Última actualización**: 2026-10-02

@@ -41,5 +41,6 @@ Current projects:
 - 08: Password Generator (secure random passwords)
 - 09: Personal Finance Tracker (expenses + category summary)
 - 10: Contact Manager (full CRUD)
+- 11: File Organizer (automatic categorization)
 
 Let's continue with the next project!
