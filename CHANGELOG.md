@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 12 - Text Analyzer (2026-10-03)
+**Complexity**: Intermediate  
+**Concepts**: text processing, frequency analysis with Counter, file I/O with pathlib, statistical reporting  
+**Description**: Powerful text analyzer that computes statistics, word frequency, and top words from either direct input or .txt files. Strong data analysis flavor with clean text processing and professional output.
+**How to run**: `cd 12-text-analyzer && python main.py`
+
 ### 11 - File Organizer (2026-10-02)
 **Complexity**: Intermediate  
 **Concepts**: pathlib for file system operations, automatic file categorization by extension, safe file moving, practical automation  
@@ -75,5 +81,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 11  
-**Última actualización**: 2026-10-02
+**Total proyectos**: 12  
+**Última actualización**: 2026-10-03

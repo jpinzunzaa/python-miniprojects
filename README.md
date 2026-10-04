@@ -42,5 +42,6 @@ Current projects:
 - 09: Personal Finance Tracker (expenses + category summary)
 - 10: Contact Manager (full CRUD)
 - 11: File Organizer (automatic categorization)
+- 12: Text Analyzer (statistics + frequency)
 
 Let's continue with the next project!

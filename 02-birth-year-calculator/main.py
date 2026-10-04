@@ -15,7 +15,6 @@ This project builds on Project 01 by introducing the standard library and basic 
 from datetime import datetime
 from typing import Tuple
 
-
 def get_user_info() -> Tuple[str, int]:
     """Collect name and age from the user.
 
@@ -40,7 +39,6 @@ def get_user_info() -> Tuple[str, int]:
 
     return name, age
 
-
 def calculate_birth_year(age: int) -> int:
     """Calculate approximate birth year based on current age.
 
@@ -52,7 +50,6 @@ def calculate_birth_year(age: int) -> int:
     """
     current_year = datetime.now().year
     return current_year - age
-
 
 def display_result(name: str, birth_year: int) -> None:
     """Display a friendly message with the calculated birth year.
@@ -67,7 +64,6 @@ def display_result(name: str, birth_year: int) -> None:
     print("=" * 40)
     print("\n¡Cálculo completado exitosamente!")
 
-
 def main() -> int:
     """Main function of the program."""
     print("=== Birth Year Calculator ===\n")
@@ -78,7 +74,6 @@ def main() -> int:
 
     display_result(name, birth_year)
     return 0
-
 
 if __name__ == "__main__":
     main()
