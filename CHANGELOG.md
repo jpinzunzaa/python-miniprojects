@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 13 - To-Do CLI (2026-10-05)
+**Complexity**: Intermediate  
+**Concepts**: persistent JSON storage, full CRUD operations, menu-driven CLI, state management across runs  
+**Description**: Complete To-Do List manager with add, list, complete, and delete functionality. Tasks are saved to `tasks.json` for persistence between sessions. Practical productivity tool with clean architecture.
+**How to run**: `cd 13-todo-cli && python main.py`
+
 ### 12 - Text Analyzer (2026-10-03)
 **Complexity**: Intermediate  
 **Concepts**: text processing, frequency analysis with Counter, file I/O with pathlib, statistical reporting  
@@ -81,5 +87,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 12  
-**Última actualización**: 2026-10-03
+**Total proyectos**: 13  
+**Última actualización**: 2026-10-05
