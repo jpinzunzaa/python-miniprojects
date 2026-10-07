@@ -44,5 +44,6 @@ Current projects:
 - 11: File Organizer (automatic categorization)
 - 12: Text Analyzer (statistics + frequency)
 - 13: To-Do CLI (persistent task manager)
+- 14: Inventory Manager (sales + valuation)
 
 Let's continue with the next project!

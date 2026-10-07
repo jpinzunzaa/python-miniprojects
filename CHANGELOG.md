@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 14 - Inventory Manager (2026-10-05)
+**Complexity**: Intermediate  
+**Concepts**: inventory management, sales tracking with stock reduction, valuation calculations, persistent JSON CRUD  
+**Description**: Complete inventory system with add products, list, search, record sales (reduces stock), and inventory valuation. Uses JSON persistence. Strong business application with practical data operations.
+**How to run**: `cd 14-inventory-manager && python main.py`
+
 ### 13 - To-Do CLI (2026-10-05)
 **Complexity**: Intermediate  
 **Concepts**: persistent JSON storage, full CRUD operations, menu-driven CLI, state management across runs  
@@ -87,5 +93,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 13  
+**Total proyectos**: 14  
 **Última actualización**: 2026-10-05
