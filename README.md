@@ -45,5 +45,6 @@ Current projects:
 - 12: Text Analyzer (statistics + frequency)
 - 13: To-Do CLI (persistent task manager)
 - 14: Inventory Manager (sales + valuation)
+- 15: PyBank - Digital Bank (full banking simulation)
 
 Let's continue with the next project!

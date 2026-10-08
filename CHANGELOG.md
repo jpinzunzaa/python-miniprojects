@@ -4,6 +4,12 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ## Proyectos Añadidos
 
+### 15 - PyBank - Digital Bank (2026-10-06)
+**Complexity**: Advanced  
+**Concepts**: multi-account banking system, transaction history, transfers between accounts, financial validation, persistent multi-user data  
+**Description**: Complete digital bank simulation with account creation, deposits, withdrawals, transfers, and detailed transaction history. All data is persisted in JSON. One of the most complete applications in the series.
+**How to run**: `cd 15-pybank && python main.py`
+
 ### 14 - Inventory Manager (2026-10-05)
 **Complexity**: Intermediate  
 **Concepts**: inventory management, sales tracking with stock reduction, valuation calculations, persistent JSON CRUD  
@@ -93,5 +99,5 @@ Registro de todos los mini-proyectos añadidos, ordenados del más simple al má
 
 ---
 
-**Total proyectos**: 14  
-**Última actualización**: 2026-10-05
+**Total proyectos**: 15  
+**Última actualización**: 2026-10-06
